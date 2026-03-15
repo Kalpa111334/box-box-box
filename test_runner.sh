@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Box Box Box - Test Runner
-# Usage: ./test_runner.sh "your_solution_command"
+# Usage: ./test_runner.sh "your_solution_comman
 # Example: ./test_runner.sh "python solution.py"
 
 set -e
